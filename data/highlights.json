@@ -1,0 +1,901 @@
+[
+    {
+        "local_organization_id": {
+            "id": "37677892",
+            "country": "DK"
+        },
+        "highlights": {
+            "age": {
+                "title": "Young company",
+                "message": "The company is less than 5 years old. Our analysis shows that the risk is higher on companies that are less than 5 years old. The credit score has been affected negatively.",
+                "description": "Warning of higher risk if the company is started within 5 years.",
+                "classification": "negative",
+                "weight": 1900,
+                "data": null
+            },
+            "industry_risk": {
+                "title": "Industry risk",
+                "message": "The company is in an industry with low bankruptcy risk.",
+                "description": "The information is available if the company is in an industry with high or low bankruptcy risk.",
+                "classification": "positive",
+                "weight": 2010,
+                "data": null
+            },
+            "address": {
+                "title": "Change of address",
+                "message": "This company has changed address within the last 3 years.",
+                "description": "The company have changed address within the last 3 years.",
+                "classification": "neutral",
+                "weight": 3700,
+                "data": null
+            },
+            "change_in_management": {
+                "title": "Changes in management",
+                "message": "This company had changes in the management and/or the board within the last year.",
+                "description": "There have been many changes in the management and/or the board within the last year.",
+                "classification": "neutral",
+                "weight": 3600,
+                "data": null
+            },
+            "change_in_employees": {
+                "title": "Change in number of employees",
+                "message": "Number of employees has increased the last 3 years.",
+                "description": "Number of employees has consistently changed over the last 3 years.",
+                "classification": "positive",
+                "weight": 2500,
+                "data": null
+            },
+            "three_years_profitloss": {
+                "title": "Profit or loss streak",
+                "message": "This company has had losses the past 3 years.",
+                "description": "Results the last 3 years.",
+                "classification": "negative",
+                "weight": 1450,
+                "data": null
+            },
+            "intangible_assets": {
+                "title": "Large proportion of intangible assets",
+                "message": "Intangible assets represents more than 50% of the total equity which may mean a higher financial risk.",
+                "description": "Warning if the value of intellectual property represents over 50% of equity in the company. This is a potentially risk factor.",
+                "classification": "negative",
+                "weight": 1950,
+                "data": null
+            },
+            "type_of_auditor_assistance": {
+                "title": "Level of audit",
+                "message": "The latest financial statement have been audited by a registered auditor.",
+                "description": "Warning about the level of involvement from an auditor in the creation of the financial statement.",
+                "classification": "neutral",
+                "weight": 1255,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We found 2 bankruptcies or enforced closures among the people related to this company. It did not affect the overall credit score.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "negative",
+                "weight": 1150,
+                "data": {
+                    "4000397851": [20043679],
+                    "4000456851": [25921542]
+                }
+            },
+            "return_on_assets": {
+                "title": "Return on assets",
+                "message": "The company is within the bottom 10% of return on assets in its industry.",
+                "description": "Highlights if the return on assets is within the top or bottom 10% among the company industry.",
+                "classification": "negative",
+                "weight": 1750,
+                "data": null
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "10404916",
+            "country": "DK"
+        },
+        "highlights": {
+            "politically_exposed_person": {
+                "title": "Politically exposed person",
+                "message": "This company has politically exposed persons among management or owners.",
+                "description": "Companies and persons, who are subject to the Danish money laundering Act, must be able to determine if their customers are politically exposed persons (PEP). Companies/persons must, among other things, conduct strict monitoring of business relationships with PEPs. The detailed rules on this are set out in section 18 of the Money Laundering Act.",
+                "classification": "neutral",
+                "weight": 2650,
+                "data": null
+            },
+            "change_in_management": {
+                "title": "Changes in management",
+                "message": "This company had changes in the management and/or the board within the last year.",
+                "description": "There have been many changes in the management and/or the board within the last year.",
+                "classification": "neutral",
+                "weight": 3600,
+                "data": null
+            },
+            "health_inspection": {
+                "title": "The Danish Veterinary and Food Administration's smiley scheme",
+                "message": "All of the company's production units passed their last inspection with no remarks.",
+                "description": "Information is available if the company is under the supervision of the Danish Veterinary and Food Administration.",
+                "classification": "positive",
+                "weight": 1041,
+                "data": [
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=114443",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-06-24",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=561852",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-11-26",
+                        "local_production_unit": {
+                            "id": 1020008543,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=936385",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-10",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=936388",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-10",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=116533",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-09-02",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=116875",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-06-06",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=118680",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-07-20",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=700851",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-10",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=921649",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-11-26",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=115084",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-07-27",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=125912",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-09-02",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=717751",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-10-12",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=803388",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-05-01",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=115085",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-11-26",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=561453",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-02-22",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=935031",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-11-04",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=531950",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-04-05",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930198",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-02-05",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=665657",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-10-12",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=523246",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-06-06",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=120884",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-11-22",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=743417",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-09-11",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=113970",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-07-27",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=765870",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-10-18",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=936384",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-19",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=125913",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-06-06",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=117867",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-04-08",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=645262",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-10",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=115727",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-04-16",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=118679",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-23",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=115785",
+                        "latest_control": 1,
+                        "latest_control_date": "2018-07-20",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=719842",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-06-03",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=508485",
+                        "latest_control": 1,
+                        "latest_control_date": "2012-08-24",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=117109",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-05-01",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=118110",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-11-22",
+                        "local_production_unit": {
+                            "id": 1002894451,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=115075",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-11-03",
+                        "local_production_unit": {
+                            "id": 1019479249,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=548529",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-03-11",
+                        "local_production_unit": {
+                            "id": 1019479249,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=543060",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-10-12",
+                        "local_production_unit": {
+                            "id": 1019330393,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=119223",
+                        "latest_control": 1,
+                        "latest_control_date": "2013-04-10",
+                        "local_production_unit": {
+                            "id": 1022321192,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=944929",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-08-18",
+                        "local_production_unit": {
+                            "id": 1022321249,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=700705",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-23",
+                        "local_production_unit": {
+                            "id": 1022321249,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=535576",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-02-12",
+                        "local_production_unit": {
+                            "id": 1018808885,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=118085",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-23",
+                        "local_production_unit": {
+                            "id": 1018808885,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=948906",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-16",
+                        "local_production_unit": {
+                            "id": 1022520454,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=128563",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-23",
+                        "local_production_unit": {
+                            "id": 1017022004,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=661747",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-30",
+                        "local_production_unit": {
+                            "id": 1024720019,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=119684",
+                        "latest_control": 1,
+                        "latest_control_date": "2020-09-23",
+                        "local_production_unit": {
+                            "id": 1015613633,
+                            "country": "DK"
+                        }
+                    },
+                    {
+                        "url": "http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=923869",
+                        "latest_control": 1,
+                        "latest_control_date": "2019-12-13",
+                        "local_production_unit": {
+                            "id": 1025250873,
+                            "country": "DK"
+                        }
+                    }
+                ]
+            },
+            "profit_loss": {
+                "title": "Changes in profit and loss",
+                "message": "Profit or loss has increased more than 20% since last year.",
+                "description": "If profit or losses have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2600,
+                "data": null
+            },
+            "three_years_profitloss": {
+                "title": "Profit or loss streak",
+                "message": "This company has had profits the past 3 years.",
+                "description": "Results the last 3 years.",
+                "classification": "positive",
+                "weight": 2700,
+                "data": null
+            },
+            "type_of_auditor_assistance": {
+                "title": "Level of audit",
+                "message": "The latest financial statement have been audited by a registered auditor.",
+                "description": "Warning about the level of involvement from an auditor in the creation of the financial statement.",
+                "classification": "neutral",
+                "weight": 1255,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We found 2 bankruptcies or enforced closures among the people related to this company. It did not affect the overall credit score.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "negative",
+                "weight": 1150,
+                "data": {
+                    "4000237676": [28696264, 32931448]
+                }
+            },
+            "corona_exposure": {
+                "title": "COVID-19 risk",
+                "message": "The company is in an industry that is considered to be exposed to falling demand as a result of COVID-19.",
+                "description": "The information will appear if the company is at high risk of being affected in relation to. the prevalence of COVID-19.",
+                "classification": "negative",
+                "weight": null,
+                "data": null
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "39697696",
+            "country": "DK"
+        },
+        "highlights": {
+            "age": {
+                "title": "Young company",
+                "message": "The company is less than 3 years old. Our analysis shows that the risk is higher on companies that are less than 5 years old. The credit score has been affected negatively.",
+                "description": "Warning of higher risk if the company is started within 5 years.",
+                "classification": "negative",
+                "weight": 1900,
+                "data": null
+            },
+            "industry_risk": {
+                "title": "Industry risk",
+                "message": "The company is in an industry with low bankruptcy risk.",
+                "description": "The information is available if the company is in an industry with high or low bankruptcy risk.",
+                "classification": "positive",
+                "weight": 2010,
+                "data": null
+            },
+            "address": {
+                "title": "Change of address",
+                "message": "This company has changed address within the last 3 years.",
+                "description": "The company have changed address within the last 3 years.",
+                "classification": "neutral",
+                "weight": 3700,
+                "data": null
+            },
+            "change_in_management": {
+                "title": "Changes in management",
+                "message": "This company had 3 or more changes in the management and/or the board within the last year.",
+                "description": "There have been many changes in the management and/or the board within the last year.",
+                "classification": "neutral",
+                "weight": 1875,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We found 1 bankruptcy or enforced closure among the people related to this company. It did not affect the overall credit score.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3200,
+                "data": {
+                    "1021390": [38597256]
+                }
+            },
+            "vat": {
+                "title": "VAT registration",
+                "message": "The company is in an industry, where it is not custom to be registered for VAT. The company is registered for VAT.",
+                "description": "The information is provided for all companies and tells whether the company is VAT registered.",
+                "classification": "neutral",
+                "weight": 3800,
+                "data": null
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "34731543",
+            "country": "DK"
+        },
+        "highlights": {
+            "address": {
+                "title": "Change of address",
+                "message": "This company has changed address within the last 3 years.",
+                "description": "The company have changed address within the last 3 years.",
+                "classification": "neutral",
+                "weight": 3700,
+                "data": null
+            },
+            "change_in_management": {
+                "title": "Changes in management",
+                "message": "This company had 3 or more changes in the management and/or the board within the last year.",
+                "description": "There have been many changes in the management and/or the board within the last year.",
+                "classification": "neutral",
+                "weight": 1875,
+                "data": null
+            },
+            "profit_loss": {
+                "title": "Changes in profit and loss",
+                "message": "Profit or loss has increased more than 20% since last year.",
+                "description": "If profit or losses have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2600,
+                "data": null
+            },
+            "revenue": {
+                "title": "Changes in revenue",
+                "message": "Company revenue has increased more than 20% since last year.",
+                "description": "If revenues have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2400,
+                "data": null
+            },
+            "three_years_profitloss": {
+                "title": "Profit or loss streak",
+                "message": "This company has had profits the past 3 years.",
+                "description": "Results the last 3 years.",
+                "classification": "positive",
+                "weight": 2700,
+                "data": null
+            },
+            "type_of_auditor_assistance": {
+                "title": "Level of audit",
+                "message": "The latest financial statement have been audited by a registered auditor.",
+                "description": "Warning about the level of involvement from an auditor in the creation of the financial statement.",
+                "classification": "neutral",
+                "weight": 1255,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We found 1 bankruptcy or enforced closure among the people related to this company. It did not affect the overall credit score.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3200,
+                "data": {
+                    "4003842566": [24241041]
+                }
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "32345794",
+            "country": "DK"
+        },
+        "highlights": {
+            "profit_loss": {
+                "title": "Changes in profit and loss",
+                "message": "Profit or loss has increased more than 20% since last year.",
+                "description": "If profit or losses have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2600,
+                "data": null
+            },
+            "foreign_currency": {
+                "title": "Statement not in local currency",
+                "message": "The financial statement is in a foreign currency.",
+                "description": "Informing that the financial statement is stated in a foreign currency.",
+                "classification": "neutral",
+                "weight": 3500,
+                "data": null
+            },
+            "type_of_auditor_assistance": {
+                "title": "Level of audit",
+                "message": "The latest financial statement have been audited by a registered auditor.",
+                "description": "Warning about the level of involvement from an auditor in the creation of the financial statement.",
+                "classification": "neutral",
+                "weight": 1255,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We found 1 bankruptcy or enforced closure among the people related to this company. It did not affect the overall credit score.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3200,
+                "data": {
+                    "4000344837": [31935393]
+                }
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "13612870",
+            "country": "DK"
+        },
+        "highlights": {
+            "politically_exposed_person": {
+                "title": "Politically exposed person",
+                "message": "This company has politically exposed persons among management or owners.",
+                "description": "Companies and persons, who are subject to the Danish money laundering Act, must be able to determine if their customers are politically exposed persons (PEP). Companies/persons must, among other things, conduct strict monitoring of business relationships with PEPs. The detailed rules on this are set out in section 18 of the Money Laundering Act.",
+                "classification": "neutral",
+                "weight": 2650,
+                "data": null
+            },
+            "profit_loss": {
+                "title": "Changes in profit and loss",
+                "message": "Profit or loss has increased more than 20% since last year.",
+                "description": "If profit or losses have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2600,
+                "data": null
+            },
+            "revenue": {
+                "title": "Changes in revenue",
+                "message": "Company revenue has increased more than 20% since last year.",
+                "description": "If revenues have a significant trend the last 3 years.",
+                "classification": "positive",
+                "weight": 2400,
+                "data": null
+            },
+            "three_years_profitloss": {
+                "title": "Profit or loss streak",
+                "message": "This company has had profits the past 3 years.",
+                "description": "Results the last 3 years.",
+                "classification": "positive",
+                "weight": 2700,
+                "data": null
+            },
+            "type_of_auditor_assistance": {
+                "title": "Level of audit",
+                "message": "The latest financial statement have been audited by a registered auditor.",
+                "description": "Warning about the level of involvement from an auditor in the creation of the financial statement.",
+                "classification": "neutral",
+                "weight": 1255,
+                "data": null
+            },
+            "timely_delivery": {
+                "title": "Delayed statement delivery",
+                "message": "This company did not hand in the financial statement in time.",
+                "description": "Warning about if the financial statement wasn't handed in to the authorities in time.",
+                "classification": "negative",
+                "weight": 3100,
+                "data": null
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We did not find any bankruptcies among the people related to this company.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3300,
+                "data": {}
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "30581326",
+            "country": "DK"
+        },
+        "highlights": {
+            "industry_risk": {
+                "title": "Industry risk",
+                "message": "The company is in an industry with high bankruptcy risk.",
+                "description": "The information is available if the company is in an industry with high or low bankruptcy risk.",
+                "classification": "negative",
+                "weight": 2020,
+                "data": null
+            },
+            "address": {
+                "title": "Change of address",
+                "message": "This company has changed address within the last 3 years.",
+                "description": "The company have changed address within the last 3 years.",
+                "classification": "neutral",
+                "weight": 3700,
+                "data": null
+            },
+            "prior_distress": {
+                "title": "Prior distress",
+                "message": "The company has once been under enforced closure or under bankruptcy.",
+                "description": "The information is available if the company previously have been under enforced closure or under bankruptcy.",
+                "classification": "negative",
+                "weight": 1320,
+                "data": [
+                    {
+                        "status_code": "UNDER BANKRUPTCY",
+                        "status": "Under bankruptcy",
+                        "valid_to": null,
+                        "valid_from": "2014-11-13"
+                    }
+                ]
+            },
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We did not find any bankruptcies among the people related to this company.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3300,
+                "data": null
+            }
+        }
+    },
+    {
+        "local_organization_id": {
+            "id": "17177176",
+            "country": "DK"
+        },
+        "highlights": {
+            "connected_bankruptcies": {
+                "title": "Analysis of bankruptcies",
+                "message": "We did not find any bankruptcies among the people related to this company.",
+                "description": "Amount of historical bankruptcies with the people associated with the company (executives, board of directors etc.).",
+                "classification": "neutral",
+                "weight": 3300,
+                "data": {}
+            },
+            "vat": {
+                "title": "VAT registration",
+                "message": "The company is in an industry, where it is custom to be registered for VAT. The company is not registered for VAT.",
+                "description": "The information is provided for all companies and tells whether the company is VAT registered.",
+                "classification": "neutral",
+                "weight": 1170,
+                "data": null
+            }
+        }
+    }
+]

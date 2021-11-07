@@ -1,0 +1,9 @@
+.input {
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .input {
+        width: 300px;
+    }
+}

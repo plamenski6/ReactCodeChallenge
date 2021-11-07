@@ -1,0 +1,911 @@
+[
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "contact@risika.dk",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": false,
+            "phone_number": "+4542905757"
+        },
+        "score": 4,
+        "address": {
+            "city": "København K",
+            "coname": null,
+            "number": "26B, st.",
+            "street": "Kronprinsessegade",
+            "country": "DK",
+            "zipcode": 1306,
+            "municipality": "København",
+            "postdistrict": "København K"
+        },
+        "purpose": "Selskabets formål er at etablere og drive en online kreditvurderingsplatform",
+        "webpage": "risika.dk",
+        "status_code": "ACTIVE",
+        "company_name": "RISIKA A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": "Selskabet tegnes af en direktør i forening med et medlem af bestyrelsen eller af den samlede bestyrelse",
+        "holding_company": false,
+        "last_report_date": "2019-12-31",
+        "financial_reports": true,
+        "status_valid_from": "2016-07-01",
+        "main_industry_code": {
+            "code": "829100",
+            "isic": {
+                "code": "8291",
+                "section": "N",
+                "description": "Activities of collection agencies and credit bureaus"
+            },
+            "nace": {
+                "code": "8291",
+                "section": "N",
+                "description": "Activities of collection agencies and credit bureaus"
+            },
+            "section": "N",
+            "description": "Inkassovirksomhed og kreditoplysning"
+        },
+        "registered_capital": {
+            "value": 557574,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "20-49",
+            "specific": 22
+        },
+        "risk_assessment_code": "MEDIUM",
+        "date_of_incorporation": "2016-04-30",
+        "local_organization_id": {
+            "id": "37677892",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "Globus Platform ApS",
+                "valid_to": "2017-05-17",
+                "valid_from": "2017-01-14"
+            },
+            {
+                "name": "Global Business Platform ApS",
+                "valid_to": "2017-05-17",
+                "valid_from": "2016-04-30"
+            }
+        ],
+        "advertisement_protection": true,
+        "secondary_industry_codes": [
+            {
+                "isic": {
+                    "code": "6202",
+                    "section": "J",
+                    "description": "Computer consultancy and computer facilities management activities"
+                },
+                "nace": {
+                    "code": "6202",
+                    "section": "J",
+                    "description": "Computer consultancy activities"
+                },
+                "section": "J",
+                "priority": 2,
+                "group_name": "Computerprogrammering, konsulentbistand vedrørende informationsteknologi og lignende aktiviteter",
+                "industry_code": "620200",
+                "industry_description": "Konsulentbistand vedrørende informationsteknologi"
+            },
+            {
+                "isic": {
+                    "code": "6311",
+                    "section": "J",
+                    "description": "Data processing, hosting and related activities"
+                },
+                "nace": {
+                    "code": "6311",
+                    "section": "J",
+                    "description": "Data processing, hosting and related activities"
+                },
+                "section": "J",
+                "priority": 1,
+                "group_name": "Databehandling, webhosting og lignende serviceydelser; webportaler",
+                "industry_code": "631100",
+                "industry_description": "Databehandling, webhosting og lignende serviceydelser"
+            }
+        ],
+        "status": "Active",
+        "risk_assessment": "Medium"
+    },
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "anfo@TIVOLI.DK",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": false,
+            "phone_number": "+4533151001"
+        },
+        "score": 10,
+        "listed": true,
+        "address": {
+            "city": "København V",
+            "coname": null,
+            "number": "3",
+            "street": "Vesterbrogade",
+            "country": "DK",
+            "zipcode": 1620,
+            "municipality": "København",
+            "postdistrict": "København V"
+        },
+        "purpose": "Selskabets formål er at drive forlystelses- og underholdningsvirksomhed, impresariovirksomhed, hotelvirksomhed, ejendomsudlejning, restaurationsdrift, rådgivning og teknisk bistand om etablering og drift af forlystelsesparker og lignende  samt hermed beslægtet virksomhed. Selskabet kan udøve denne virksomhed gennem besiddelse af aktier i andre selskaber.",
+        "webpage": "tivoli.dk",
+        "status_code": "ACTIVE",
+        "company_name": "TIVOLI A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": "Selskabet tegnes af bestyrelsens formand eller næstformand i forening med et andet medlem af bestyrelsen, af bestyrelsens formand eller næstformand i forening med en direktør eller af to direktører i forening.",
+        "holding_company": false,
+        "last_report_date": "2019-12-31",
+        "financial_reports": true,
+        "status_valid_from": "0001-01-01",
+        "main_industry_code": {
+            "code": "932100",
+            "isic": {
+                "code": "9321",
+                "section": "R",
+                "description": "Activities of amusement parks and theme parks"
+            },
+            "nace": {
+                "code": "9321",
+                "section": "R",
+                "description": "Activities of amusement parks and theme parks"
+            },
+            "section": "R",
+            "description": "Forlystelsesparker o.l."
+        },
+        "registered_capital": {
+            "value": 57166600,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "1000-999999",
+            "specific": 1555
+        },
+        "risk_assessment_code": "LOW",
+        "date_of_incorporation": "0001-01-01",
+        "local_organization_id": {
+            "id": "10404916",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "TIVOLI ARTISTS A/S",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "TIVOLI EATERTAINMENT A/S",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "EATERTAINMENT A/S",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "EATAINMENT A/S",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "TIVOLI INTERNATIONAL A/S",
+                "valid_to": null,
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "NIMB A/S",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            },
+            {
+                "name": "AKTIESELSKABET KJØBENHAVNS SOMMER-TIVOLI",
+                "valid_to": "2016-02-17",
+                "valid_from": "0001-01-01"
+            }
+        ],
+        "advertisement_protection": false,
+        "secondary_industry_codes": [
+            {
+                "isic": {
+                    "code": "5610",
+                    "section": "I",
+                    "description": "Restaurants and mobile food service activities"
+                },
+                "nace": {
+                    "code": "5610",
+                    "section": "I",
+                    "description": "Restaurants and mobile food service activities"
+                },
+                "section": "I",
+                "priority": 1,
+                "group_name": "Restauranter og levering af mad ud af huset",
+                "industry_code": "561010",
+                "industry_description": "Restauranter"
+            },
+            {
+                "isic": {
+                    "code": "6810",
+                    "section": "L",
+                    "description": "Real estate activities with own or leased property"
+                },
+                "nace": {
+                    "code": "6820",
+                    "section": "L",
+                    "description": "Rental and operating of own or leased real estate"
+                },
+                "section": "L",
+                "priority": 2,
+                "group_name": "Udlejning af og virksomhed i forbindelse med egen eller leaset fast ejendom",
+                "industry_code": "682040",
+                "industry_description": "Udlejning af erhvervsejendomme"
+            }
+        ],
+        "status": "Active",
+        "risk_assessment": "Low"
+    },
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "support@lunar.app",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": false,
+            "phone_number": "+4570605454"
+        },
+        "score": null,
+        "listed": null,
+        "address": {
+            "city": "Aarhus C",
+            "coname": null,
+            "number": "10",
+            "street": "Hack Kampmanns Plads",
+            "country": "DK",
+            "zipcode": 8000,
+            "municipality": "Aarhus",
+            "postdistrict": "Aarhus C"
+        },
+        "purpose": "Selskabets formål er at drive bankvirksomhed samt anden accessorisk virksomhed tilladt i henhold til lovgivningen.",
+        "webpage": null,
+        "status_code": "ACTIVE",
+        "company_name": "Lunar Bank A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": "Selskabet tegnes af en direktør i forening med et bestyrelsesmedlem, af to medlemmer af bestyrelsen eller af den samlede bestyrelse.",
+        "holding_company": false,
+        "last_report_date": "2019-12-31",
+        "financial_reports": true,
+        "status_valid_from": "2018-07-02",
+        "main_industry_code": {
+            "code": "641900",
+            "isic": {
+                "code": "6419",
+                "section": "K",
+                "description": "Other monetary intermediation"
+            },
+            "nace": {
+                "code": "6419",
+                "section": "K",
+                "description": "Other monetary intermediation"
+            },
+            "section": "K",
+            "description": "Banker, sparekasser og andelskasser"
+        },
+        "registered_capital": {
+            "value": 41926137,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "20-49",
+            "specific": 48
+        },
+        "risk_assessment_code": null,
+        "date_of_incorporation": "2018-07-02",
+        "local_organization_id": {
+            "id": "39697696",
+            "country": "DK"
+        },
+        "company_secondary_names": null,
+        "advertisement_protection": false,
+        "secondary_industry_codes": null,
+        "status": "Active",
+        "risk_assessment": null
+    },
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "info@dinero.dk",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": null,
+            "phone_number": null
+        },
+        "score": 9,
+        "listed": null,
+        "address": {
+            "city": "København V",
+            "coname": null,
+            "number": "1L, 6.",
+            "street": "Vesterbrogade",
+            "country": "DK",
+            "zipcode": 1620,
+            "municipality": "København",
+            "postdistrict": "København V"
+        },
+        "purpose": "Selskabets formål er at udbyde et online regnskabsprogram/ kassekladde til små virksomheder og selvstændige erhvervsdrivende, samt blive den foretrukne partner inden for dette.",
+        "webpage": "dinero.dk",
+        "status_code": "ACTIVE",
+        "company_name": "DINERO REGNSKAB ApS",
+        "company_type": {
+            "long": "Anpartsselskab",
+            "short": "APS"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": "Selskabet tegnes af en direktør i forening med et bestyrelsesmedlem eller af to bestyrelsesmedlemmer i forening",
+        "holding_company": false,
+        "last_report_date": "2020-12-31",
+        "financial_reports": true,
+        "status_valid_from": "2012-11-02",
+        "main_industry_code": {
+            "code": "620100",
+            "isic": {
+                "code": "6201",
+                "section": "J",
+                "description": "Computer programming activities"
+            },
+            "nace": {
+                "code": "6201",
+                "section": "J",
+                "description": "Computer programming activities"
+            },
+            "section": "J",
+            "description": "Computerprogrammering"
+        },
+        "registered_capital": {
+            "value": 200000,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "50-99",
+            "specific": 57
+        },
+        "risk_assessment_code": "LOW",
+        "date_of_incorporation": "2012-11-02",
+        "local_organization_id": {
+            "id": "34731543",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "DINERO REGNSKABSPROGRAM ApS",
+                "valid_to": null,
+                "valid_from": "2012-11-02"
+            },
+            {
+                "name": "MINOA ApS",
+                "valid_to": null,
+                "valid_from": "2012-11-02"
+            },
+            {
+                "name": "Visma Rating ApS",
+                "valid_to": "2019-10-01",
+                "valid_from": "2018-05-15"
+            }
+        ],
+        "advertisement_protection": true,
+        "secondary_industry_codes": null,
+        "status": "Active",
+        "risk_assessment": "Low"
+    },
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "MLFMTMHRDKCAD@maersk.com",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": false,
+            "phone_number": "+4533633363"
+        },
+        "score": 10,
+        "listed": null,
+        "address": {
+            "city": "København K",
+            "coname": null,
+            "number": "50",
+            "street": "Esplanaden",
+            "country": "DK",
+            "zipcode": 1263,
+            "municipality": "København",
+            "postdistrict": "København K"
+        },
+        "purpose": "Selskabets formål er at drive skibsfart, befragtning, anden transportvirksomhed, handel og service og industriel virksomhed i ind- og udland, investering i anlægsaktiver og finansiering samt anden dermed beslægtet virksomhed.",
+        "webpage": "maersk.com",
+        "status_code": "ACTIVE",
+        "company_name": "MAERSK A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": "Selskabet tegnes og forpligtes i alle forhold af to medlemmer af bestyrelsen i forening eller et medlem af bestyrelsen i forening med et medlem af direktionen.",
+        "holding_company": false,
+        "last_report_date": "2019-12-31",
+        "financial_reports": true,
+        "status_valid_from": "2013-12-04",
+        "main_industry_code": {
+            "code": "502000",
+            "isic": {
+                "code": "5010",
+                "section": "H",
+                "description": "Sea and coastal water transport"
+            },
+            "nace": {
+                "code": "5020",
+                "section": "H",
+                "description": "Sea and coastal freight water transport"
+            },
+            "section": "H",
+            "description": "Sø- og kysttransport af gods"
+        },
+        "registered_capital": {
+            "value": 500000000,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": null,
+            "specific": null
+        },
+        "risk_assessment_code": "LOW",
+        "date_of_incorporation": "2013-12-04",
+        "local_organization_id": {
+            "id": "32345794",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "Maersk A/S",
+                "valid_to": "2019-11-13",
+                "valid_from": "2018-12-03"
+            },
+            {
+                "name": "SAFMARINE A/S",
+                "valid_to": null,
+                "valid_from": "2013-12-04"
+            },
+            {
+                "name": "SEALAND A/S",
+                "valid_to": null,
+                "valid_from": "2013-12-04"
+            },
+            {
+                "name": "Hamburg Süd A/S",
+                "valid_to": null,
+                "valid_from": "2018-07-06"
+            },
+            {
+                "name": "Maersk Line A/S",
+                "valid_to": null,
+                "valid_from": "2019-11-14"
+            }
+        ],
+        "advertisement_protection": false,
+        "secondary_industry_codes": null,
+        "status": "Active",
+        "risk_assessment": "Low"
+    },
+    {
+        "vat": true,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "connect@microsoft.com",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": false,
+            "phone_number": "+4545678000"
+        },
+        "score": 10,
+        "listed": null,
+        "address": {
+            "city": "Kgs. Lyngby",
+            "coname": null,
+            "number": "7",
+            "street": "Kanalvej",
+            "country": "DK",
+            "zipcode": 2800,
+            "municipality": "Lyngby-Taarbæk",
+            "postdistrict": "Kgs. Lyngby"
+        },
+        "purpose": "Selskabets formål er salg af software og tilbehør til computers og service i forbindelse hermed samt anden handel og service",
+        "webpage": "microsoft.com",
+        "status_code": "ACTIVE",
+        "company_name": "MICROSOFT DANMARK ApS",
+        "company_type": {
+            "long": "Anpartsselskab",
+            "short": "APS"
+        },
+        "audit_selected": true,
+        "financial_year": {
+            "end": "--06-30",
+            "start": "--07-01"
+        },
+        "powers_to_bind": "Selskabet tegnes af en direktør.",
+        "holding_company": false,
+        "last_report_date": "2020-06-30",
+        "financial_reports": true,
+        "status_valid_from": "1989-11-01",
+        "main_industry_code": {
+            "code": "461800",
+            "isic": {
+                "code": "4610",
+                "section": "G",
+                "description": "Wholesale on a fee or contract basis"
+            },
+            "nace": {
+                "code": "4618",
+                "section": "G",
+                "description": "Agents specialised in the sale of other particular products"
+            },
+            "section": "G",
+            "description": "Agenturhandel med specialiseret varesortiment i.a.n."
+        },
+        "registered_capital": {
+            "value": 200500,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "200-499",
+            "specific": 467
+        },
+        "risk_assessment_code": "LOW",
+        "date_of_incorporation": "1989-11-01",
+        "local_organization_id": {
+            "id": "13612870",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "NAVIGATOR ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "SIFT ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "SIFTWARE ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "PERSONAL COMPUTING AND COMMUNICATION DEVELOPMENT ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "NAVISION SOFTWARE ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "PC&C DANMARK ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "PC & C DEVELOPMENT ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "NAVISION DANMARK ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "GREAT PLAINS DANMARK ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "MICROSOFT BUSINESS SOLUTIONS DANMARK ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "C/SIDE ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "DAMGAARD ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            },
+            {
+                "name": "JPL DATA ApS",
+                "valid_to": null,
+                "valid_from": "1989-11-01"
+            }
+        ],
+        "advertisement_protection": false,
+        "secondary_industry_codes": [
+            {
+                "isic": {
+                    "code": "6810",
+                    "section": "L",
+                    "description": "Real estate activities with own or leased property"
+                },
+                "nace": {
+                    "code": "6820",
+                    "section": "L",
+                    "description": "Rental and operating of own or leased real estate"
+                },
+                "section": "L",
+                "priority": 1,
+                "group_name": "Udlejning af og virksomhed i forbindelse med egen eller leaset fast ejendom",
+                "industry_code": "682040",
+                "industry_description": "Udlejning af erhvervsejendomme"
+            }
+        ],
+        "status": "Active",
+        "risk_assessment": "Low"
+    },
+    {
+        "vat": false,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": null,
+            "hidden": null
+        },
+        "phone": {
+            "hidden": null,
+            "phone_number": null
+        },
+        "score": null,
+        "listed": null,
+        "address": {
+            "city": "Nørresundby",
+            "coname": null,
+            "number": "60",
+            "street": "Stigsborgvej",
+            "country": "DK",
+            "zipcode": 9400,
+            "municipality": "Aalborg",
+            "postdistrict": "Nørresundby"
+        },
+        "purpose": "Selskabets formål er at eje kapitalandele i associerede selskaber.",
+        "webpage": "wrist.com",
+        "status_code": "UNDER BANKRUPTCY",
+        "company_name": "WRIST MARINE SUPPLIES A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": null,
+        "financial_year": {
+            "end": "--12-31",
+            "start": "--01-01"
+        },
+        "powers_to_bind": null,
+        "holding_company": false,
+        "last_report_date": "2013-12-31",
+        "financial_reports": true,
+        "status_valid_from": "2014-11-13",
+        "main_industry_code": {
+            "code": "829900",
+            "isic": {
+                "code": "8299",
+                "section": "N",
+                "description": "Other business support service activities n.e.c."
+            },
+            "nace": {
+                "code": "8299",
+                "section": "N",
+                "description": "Other business support service activities n.e.c."
+            },
+            "section": "N",
+            "description": "Anden forretningsservice i.a.n."
+        },
+        "registered_capital": {
+            "value": 7053546,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "0",
+            "specific": null
+        },
+        "risk_assessment_code": null,
+        "date_of_incorporation": "2007-04-11",
+        "local_organization_id": {
+            "id": "30581326",
+            "country": "DK"
+        },
+        "company_secondary_names": [
+            {
+                "name": "WRIST GROUP A/S",
+                "valid_to": null,
+                "valid_from": "2007-04-11"
+            },
+            {
+                "name": "NEWCO AEP A/S",
+                "valid_to": null,
+                "valid_from": "2007-04-11"
+            }
+        ],
+        "advertisement_protection": false,
+        "secondary_industry_codes": null,
+        "status": "Under bankruptcy",
+        "risk_assessment": null
+    },
+    {
+        "vat": false,
+        "bank": {
+            "company_name": null,
+            "local_organization_id": {
+                "id": null,
+                "country": "DK"
+            }
+        },
+        "email": {
+            "email": "mm@micro-matic.dk",
+            "hidden": false
+        },
+        "phone": {
+            "hidden": null,
+            "phone_number": null
+        },
+        "score": null,
+        "listed": null,
+        "address": {
+            "city": "Højme",
+            "coname": null,
+            "number": "48",
+            "street": "Holkebjergvej",
+            "country": "DK",
+            "zipcode": 5250,
+            "municipality": "Odense",
+            "postdistrict": "Odense SV"
+        },
+        "purpose": null,
+        "webpage": "micro-matic.com",
+        "status_code": "CEASED",
+        "company_name": "MICRO MATIC A/S",
+        "company_type": {
+            "long": "Aktieselskab",
+            "short": "A/S"
+        },
+        "audit_selected": null,
+        "financial_year": {
+            "end": null,
+            "start": null
+        },
+        "powers_to_bind": null,
+        "holding_company": false,
+        "last_report_date": "2015-04-30",
+        "financial_reports": true,
+        "status_valid_from": "2015-06-19",
+        "main_industry_code": {
+            "code": "281400",
+            "isic": {
+                "code": "2813",
+                "section": "C",
+                "description": "Manufacture of other pumps, compressors, taps and valves"
+            },
+            "nace": {
+                "code": "2814",
+                "section": "C",
+                "description": "Manufacture of other taps and valves"
+            },
+            "section": "C",
+            "description": "Fremstilling af andre haner og ventiler"
+        },
+        "registered_capital": {
+            "value": 60000000,
+            "currency": "DKK"
+        },
+        "number_of_employees": {
+            "interval": "100-199",
+            "specific": null
+        },
+        "risk_assessment_code": null,
+        "date_of_incorporation": "1993-08-27",
+        "local_organization_id": {
+            "id": "17177176",
+            "country": "DK"
+        },
+        "company_secondary_names": null,
+        "advertisement_protection": false,
+        "secondary_industry_codes": null,
+        "status": "Ceased",
+        "risk_assessment": null
+    }
+]
